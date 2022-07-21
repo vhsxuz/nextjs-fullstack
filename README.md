@@ -1,2 +1,9 @@
-# nextjs-fullstack
-Create a website using nextjs
+# NextJS FullStack Website
+
+Create a website using:
+
+- NextJS
+- Prisma ORM
+- MySQL
+- ReactJS
+- Tailwind CSS
